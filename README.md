@@ -1,3 +1,4 @@
+# sprint nuevo minero · Repositorio de práctica
 # nuevo minero sprintt · Repositorio de práctica
 
 Repositorio central del taller **Fundamentos de Git** (Consorcio Minero Horizonte).
