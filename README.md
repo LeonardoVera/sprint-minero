@@ -1,4 +1,5 @@
 # sprint nuevo minero · Repositorio de práctica
+# nuevo minero sprintt · Repositorio de práctica
 
 Repositorio central del taller **Fundamentos de Git** (Consorcio Minero Horizonte).
 Cada pareja trabaja aquí las tarjetas del backlog y comparte sus cambios con commit, push y pull.
