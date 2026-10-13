@@ -13,4 +13,6 @@ Cada pareja trabaja aquí las tarjetas del backlog y comparte sus cambios con co
 ## Equipo
 | Pareja | Integrantes |
 |--------|-------------|
-|
+|Sandra
+CARias
+RGates
